@@ -2,7 +2,6 @@ import pandas as pd
 import requests
 import json
 import os
-import datetime
 
 url = "https://api.knack.com/v1/objects/object_1/records"
 headers = {
